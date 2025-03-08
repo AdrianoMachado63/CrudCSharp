@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|c:\\users\\adria\\documentos\\projetos_versionados\\conta adrianomachado63\\repositorio csharp\\crudcsharp\\crudcsharp\\crudcsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|solutionrelative:crudcsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|c:\\users\\adria\\documentos\\projetos_versionados\\conta adrianomachado63\\repositorio csharp\\crudcsharp\\crudcsharp\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|c:\\users\\adria\\documentos\\projetos_versionados\\conta adrianomachado63\\repositorio csharp\\crudcsharp\\crudcsharp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\Migrations\\20250308221644_CustomerEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250308221644_CustomerEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|c:\\users\\adria\\documentos\\projetos_versionados\\conta adrianomachado63\\repositorio csharp\\crudcsharp\\crudcsharp\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|solutionrelative:models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|c:\\users\\adria\\documentos\\projetos_versionados\\conta adrianomachado63\\repositorio csharp\\crudcsharp\\crudcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|c:\\users\\adria\\documentos\\projetos_versionados\\conta adrianomachado63\\repositorio csharp\\crudcsharp\\crudcsharp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CrudCSharp",
-              "DocumentMoniker": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\CrudCSharp.csproj",
-              "RelativeDocumentMoniker": "CrudCSharp.csproj",
-              "ToolTip": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\CrudCSharp.csproj",
-              "RelativeToolTip": "CrudCSharp.csproj",
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-08T21:37:52.756Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:20:35.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250308221644_CustomerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\Migrations\\20250308221644_CustomerEntity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250308221644_CustomerEntity.cs",
+              "ToolTip": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\Migrations\\20250308221644_CustomerEntity.cs",
+              "RelativeToolTip": "Migrations\\20250308221644_CustomerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:16:45.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:03:34.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:58:53.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T21:57:25.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "Models\\DataContext.cs",
+              "ToolTip": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\Models\\DataContext.cs",
+              "RelativeToolTip": "Models\\DataContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:52:39.65Z",
               "EditorCaption": ""
             }
           ]
