@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|c:\\users\\adria\\documentos\\projetos_versionados\\conta adrianomachado63\\repositorio csharp\\crudcsharp\\crudcsharp\\crudcsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1843E950-3B95-4DEA-A845-8ACD76896EF9}|CrudCSharp.csproj|solutionrelative:crudcsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrudCSharp",
+              "DocumentMoniker": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\CrudCSharp.csproj",
+              "RelativeDocumentMoniker": "CrudCSharp.csproj",
+              "ToolTip": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\CrudCSharp\\CrudCSharp\\CrudCSharp.csproj",
+              "RelativeToolTip": "CrudCSharp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T21:37:52.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
