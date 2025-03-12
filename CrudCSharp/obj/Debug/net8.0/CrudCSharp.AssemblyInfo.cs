@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f02b0f2822e06bb8a23fbedd6ec2460deebb6cb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02be96ea626ea8980b94393cc4313e321bd78140")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
